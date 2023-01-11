@@ -1,0 +1,21 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background: black;
+  color: white;
+}
+
+.container {
+  display:flex;
+}
+
+.multiply-result, .greeting-result, .voting-result {
+  font-size: 50px;
+  padding: 0 0 0 20px;
+  max-width: 500px;
+}
+
+h3{
+  margin: 20px 0 0 10px;
+  padding-right: 10px;
+}
